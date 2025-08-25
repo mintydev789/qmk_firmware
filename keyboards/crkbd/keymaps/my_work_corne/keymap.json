@@ -28,7 +28,7 @@
       "KC_Y",
       "KC_QUOT",
       "KC_SCLN",
-      "KC_LGUI",
+      "KC_LALT",
       "KC_A",
       "KC_R",
       "KC_S",
@@ -40,7 +40,7 @@
       "KC_I",
       "KC_O",
       "KC_BSPC",
-      "KC_LALT",
+      "KC_LGUI",
       "KC_Z",
       "KC_X",
       "KC_C",
@@ -52,11 +52,11 @@
       "KC_DOT",
       "KC_SLSH",
       "KC_TAB",
+      "KC_LCTL",
       "MO(2)",
       "KC_SPC",
-      "KC_LCTL",
-      "MO(1)",
       "KC_ENT",
+      "MO(1)",
       "KC_RSFT"
     ],
     [
@@ -96,12 +96,12 @@
       "KC_PGUP",
       "KC_END",
       "KC_TAB",
+      "KC_LCTL",
       "KC_DOT",
       "KC_SPC",
-      "KC_LCTL",
-      "KC_TRNS",
       "KC_ENT",
-      "KC_RCTL"
+      "KC_TRNS",
+      "KC_RSFT"
     ],
     [
       "KC_ESC",
@@ -140,12 +140,12 @@
       "KC_EQL",
       "KC_PLUS",
       "KC_TAB",
+      "KC_LCTL",
       "KC_TRNS",
       "KC_SPC",
-      "KC_LCTL",
-      "MO(3)",
       "KC_ENT",
-      "KC_RCTL"
+      "MO(3)",
+      "KC_RSFT"
     ],
     [
       "KC_ESC",
@@ -184,11 +184,11 @@
       "KC_NO",
       "KC_NO",
       "KC_TAB",
+      "KC_LCTL",
       "TO(0)",
       "KC_SPC",
-      "KC_LCTL",
-      "KC_TRNS",
       "KC_ENT",
+      "KC_TRNS",
       "KC_RSFT"
     ]
   ],
